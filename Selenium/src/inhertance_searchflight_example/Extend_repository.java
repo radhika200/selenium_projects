@@ -19,7 +19,7 @@ public class Extend_repository extends Repository
 	}
 	public void testcase3_flightsearch_return()
 	{
-		flight.flight_search_return__trip();
+		flight.flight_search_return__trip();;
 	}
 	
 	
